@@ -1,0 +1,19 @@
+body{
+	color: green;
+}
+
+h1, h3 {
+	color: lightblue;
+}
+
+ul li a {
+	color: red;
+}
+
+#p1 {
+	color: blueviolet;
+}
+
+.p2 {
+	color: darkred;
+}
